@@ -63,27 +63,6 @@ Clone o projeto, acesse a pasta e inicie o servidor.
 - [NodeJS](https://nodejs.org/en/)
 - [Visual Studio Code - Vscode](https://code.visualstudio.com/)
 
-#### Rodando o Back-end
-
-```bash
-# Clone esse repositório
-$ git clone https://github.com/httpsmanddy/api-foodExplorer.git
-$ cd food-explorer-api
-$ npm install
-$ npm run dev
-```
----
-
-#### Rodando a aplicação web Front-end
-
-```bash
-# Clone esse repositório
-$ git clone https://github.com/httpsmanddy/foodExplorer-frontend.git
-$ cd food-explorer-frontend
-$ npm install
-$ npm run dev
-
-```
 ---
 
 ## 🎨 Autor
